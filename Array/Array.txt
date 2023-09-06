@@ -1,0 +1,8 @@
+Q1 Maximum and minimum of an array using minimum number of comparisons
+let arr = [3, 5, 4, 1, 9]
+
+Q2 Write a program to reverse an array or string
+
+let arr = [1,2,3,4,5,6]
+
+Q3 Maximum-Subarray [Kadane's Algorithm | Largest Sum Contiguous Subarray]
